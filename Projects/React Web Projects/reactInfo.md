@@ -1,1 +1,1 @@
-React - A JavaScript library for building user interfaces
+React – A JavaScript library for building user interfaces
